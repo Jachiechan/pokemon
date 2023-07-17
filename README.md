@@ -6,6 +6,7 @@ Welcome to the Pokemon repository! This repository is dedicated to providing inf
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -14,7 +15,7 @@ Welcome to the Pokemon repository! This repository is dedicated to providing inf
 The Pokemon repository aims to gather and organize information about Pokemon, including their characteristics, abilities, evolutions, and more. It provides a comprehensive dataset that can be used for research, analysis, game development, or any other purpose related to Pokemon.
 
 ## Demo
-Visit here for 
+Visit here [https://jachiechan.github.io/pokemon/](https://jachiechan.github.io/pokemon/) for demo
 
 ## Features
 - Detailed information about various Pokemon species.
